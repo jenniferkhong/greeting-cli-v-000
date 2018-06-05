@@ -3,4 +3,4 @@ def greeting(name ="name")
   name = gets.strip
 end
 
-greeting
+greeting(Jen)
